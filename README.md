@@ -1,4 +1,4 @@
-# JS & Client-Side Resources
+# JS & Client-Side Bugs Resources
 
 ## JS Analysis
 1. [JavaScript Analysis for Pentesters](https://kpwn.de/2023/05/javascript-analysis-for-pentesters/)
